@@ -1,0 +1,10 @@
+﻿/* @font-face kit by Fonts2u (https://fonts2u.com) */ 
+@font-face 
+{
+	font-family:"Lyon_Bold";
+	src:url("LYON_BOL.eot?") format("eot"),
+		url("LYON_BOL.woff") format("woff"),
+		url("LYON_BOL.ttf") format("truetype"),
+		url("LYON_BOL.svg#Lyon_Bold") format("svg");
+		font-weight:normal;font-style:normal;
+}
